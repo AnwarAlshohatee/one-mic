@@ -5,7 +5,7 @@ A Discord bot built with Python that helps organize voice conversations by allow
 
 One Mic uses Discord's voice moderation features to mute other participants when someone takes the mic and unmute them when the mic is released.
 
-![One Mic Discord Bot](one-mic.png)
+![One Mic Discord Bot](one-mic.jpg)
 
 ## Technologies
 
